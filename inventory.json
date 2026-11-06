@@ -1,0 +1,19 @@
+
+[
+    {
+        "product_id": "P001",
+        "name": "Laptop",
+        "price": 1200.0,
+        "stock": 15,
+        "type": "physical",
+        "weight": 2.4
+    },
+    {
+        "product_id": "P002",
+        "name": "Mouse",
+        "price": 25.5,
+        "stock": 40,
+        "type": "digital",
+        "download_size": 125.0
+    }
+]
